@@ -15,3 +15,4 @@ Variance
 Standard
 Deviation
 Probability
+- Outliers (e.g., 55 and 100 here) strongly affect variance and standard deviation.
